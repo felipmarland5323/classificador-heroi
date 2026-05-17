@@ -35,5 +35,4 @@ Autor
 
 Felipe Marland
 
-```bash
-node desafio.js
+
